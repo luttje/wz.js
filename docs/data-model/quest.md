@@ -1,5 +1,8 @@
 # Quest tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 `Quest/QuestData/<id>.img`: one image per quest (343 in Classic World), named by the
 unpadded quest ID. Statistics: [generated/quest.md](generated/quest.md). Reader:
 `src/model/quest.ts`. Example: `Quest/QuestData/1000.img` (Borrowing Sera's Mirror).

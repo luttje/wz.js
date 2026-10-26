@@ -2,6 +2,9 @@
 
 Surprising things in the data. Each entry names an example so it can be checked.
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 ## Files and archives
 
 - **Two clients in one install.** The Steam install's top-level `Data/` is the live

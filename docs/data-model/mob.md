@@ -1,5 +1,8 @@
 # Mob tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 Monster images `Mob/<id 7 digits>.img` are stored only in the `Packs/Mob_00000.ms` pack (117
 images). Pixels for 79 of them are in `Mob/_Canvas/<id>.img`. Field statistics:
 [generated/mob.md](generated/mob.md).

@@ -1,5 +1,8 @@
 # Monster skills
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 `Skill/MobSkill/<id>.img` (from `Packs/Skill_00000.ms`; pixels in `Skill/MobSkill/_Canvas`).
 Reader: `src/model/mob-skill.ts`. Statistics: [generated/mobskill.md](generated/mobskill.md). Example: `Skill/MobSkill/123.img/level/1` (Stun).
 

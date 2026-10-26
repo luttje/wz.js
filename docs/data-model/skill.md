@@ -1,5 +1,8 @@
 # Skill tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 `Skill/<job 3 digits>.img` (from `Packs/Skill_00000.ms`). Statistics:
 [generated/skill.md](generated/skill.md), [generated/job.md](generated/job.md). Reader:
 `src/model/skill.ts`. Example: `Skill/100.img/skill/1001001` (Power Strike).

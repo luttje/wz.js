@@ -5,6 +5,9 @@ rule names an example that demonstrates it. This package resolves the assets and
 the frames (`src/model/animation.ts`, `map-scene.ts`, `avatar.ts`, `afterimage.ts`); the
 drawing itself is up to you, and these are the rules a renderer has to follow.
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 ## Canvases
 
 - A canvas is drawn with its **`origin` on the anchor point**: top-left corner at

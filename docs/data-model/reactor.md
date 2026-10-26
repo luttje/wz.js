@@ -1,5 +1,8 @@
 # Reactor tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 `Reactor/<id 7 digits>.img` (26 in Classic World). Statistics:
 [generated/reactor.md](generated/reactor.md). Reader: `src/model/reactor.ts`.
 Example: `Reactor/0000001.img` (wooden box).

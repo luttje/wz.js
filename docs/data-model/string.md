@@ -1,5 +1,8 @@
 # String tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 `String/String_000.wz`, 24 images. All user-visible names and texts.
 
 | Image | Layout | Notes |

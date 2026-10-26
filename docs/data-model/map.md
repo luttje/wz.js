@@ -1,5 +1,8 @@
 # Map tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 `Map/Map/Map<first digit>/<id 9 digits>.img`: 334 maps in `Map0`, 2 in `Map9`. Names are
 in `String/Map.img/<region>/<id>`. Statistics: [generated/map.md](generated/map.md),
 [map-back](generated/map-back.md), [map-obj](generated/map-obj.md), [map-tile](generated/map-tile.md).

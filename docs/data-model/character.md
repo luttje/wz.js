@@ -1,5 +1,8 @@
 # Character tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 How a character is put together on screen: [rendering.md](../rendering.md)
 ("Characters"). Reader: `src/model/avatar.ts`. Statistics: [generated/body.md](generated/body.md).
 

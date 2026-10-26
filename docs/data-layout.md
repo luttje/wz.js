@@ -3,6 +3,9 @@
 What a MapleStory Classic World install contains, as observed in the files. `npm run
 inventory` lists every file and archive of your own install into `out/data-inventory.md`.
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 ## Where the data lives
 
 The Steam app `MapleStory` (app id 216150) installs **two clients** side by side:

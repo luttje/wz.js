@@ -1,5 +1,8 @@
 # Npc tree
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 `Npc/<id 7 digits>.img`, 233 images; pixels in `Npc/_Canvas/<id>.img` (146 images).
 Statistics: [generated/npc.md](generated/npc.md). Example: `Npc/0000001.img` (Heena).
 

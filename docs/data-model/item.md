@@ -1,5 +1,8 @@
 # Items
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 Items live in three places. Locate an item by scanning these folders (no guessing from ID
 ranges):
 

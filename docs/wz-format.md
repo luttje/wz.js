@@ -5,6 +5,9 @@ statement here was confirmed by parsing **all 14,623 images** in the snapshot wi
 single failure, unless it is marked `UNVERIFIED`. `npm run inventory` repeats that check
 against your own install and reports the formats it saw.
 
+> [!WARNING]
+> This content was AI-generated and must be reviewed for accuracy and completeness before use.
+
 All integers are little-endian.
 
 ## Primitive types
