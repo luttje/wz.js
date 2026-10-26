@@ -1,0 +1,37 @@
+{
+  "name": "wz.js",
+  "version": "0.1.0",
+  "description": "Reads MapleStory's PKG1 .wz archives and encrypted .ms packs in the browser and Node, with typed models of the data",
+  "license": "MIT",
+  "type": "module",
+  "repository": "github:luttje/wz.js",
+  "exports": {
+    "./*": {
+      "types": "./dist/*.d.ts",
+      "default": "./dist/*.js"
+    }
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "prepare": "npm run build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "wz": "tsx tools/wz.ts",
+    "inventory": "tsx tools/wz.ts inventory",
+    "schema": "tsx tools/schema.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.4"
+  }
+}
